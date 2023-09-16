@@ -3,5 +3,4 @@
 
 ### 霓虹灯
 ![](media/cover1.jpg)
-
-[Blender文件下载](blenderfile/Neonlamp.blend.zip)
+文件位置：blenderfile/Neonlamp.blend.zip
